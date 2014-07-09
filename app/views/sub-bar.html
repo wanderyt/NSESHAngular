@@ -1,0 +1,5 @@
+<ul class="nav nav-pills nav-stacked" ng-controller="SubNavBarCtrl">
+    <li ng-repeat="item in navItems" ng-class="{active: isActive({{item.sref}})}">
+        <a ui-sref="{{item.sref}}">{{item.name}}</a>
+    </li>
+</ul>
