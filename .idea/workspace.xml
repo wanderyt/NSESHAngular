@@ -2,91 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d89408-3120-44f5-87ab-433d94a16bfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act3/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act3/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act3/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act3/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act3/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act3/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act4/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act4/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act4/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act4/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_nav_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_nav_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancybox-x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancybox-y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancybox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/title.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/PhotoCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/WeeklyCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery.fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery.mCustomScrollbar.concat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/jquery.mCustomScrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/weekly.css" />
-      <change type="MOVED" beforePath="C:\Users\I077479\WebstormProjects\NSESHAngular\app\styles\subnav.css" afterPath="$PROJECT_DIR$/app/styles/photo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/bootstrap-app.js" afterPath="$PROJECT_DIR$/app/scripts/bootstrap-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fileServer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/config.js" afterPath="$PROJECT_DIR$/app/scripts/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/dataService.js" afterPath="$PROJECT_DIR$/app/scripts/services/dataService.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/union/photo.html" afterPath="$PROJECT_DIR$/app/views/union/photo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sub-bar.html" afterPath="$PROJECT_DIR$/app/views/sub-bar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-mysql.js" afterPath="$PROJECT_DIR$/test-mysql.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-server.js" afterPath="$PROJECT_DIR$/web-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/news/weekly.html" afterPath="$PROJECT_DIR$/app/views/news/weekly.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NSESHAngular.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405503848557" ignored="false" />
+    <file path="/Dummy.txt" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405513044612" ignored="false" />
     <file path="/index.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405430328085" ignored="false" />
     <file path="/app.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404810290649" ignored="false" />
     <file path="/config.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404914393365" ignored="false" />
@@ -113,14 +36,17 @@
     <file path="/test-mysql.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404891764899" ignored="false" />
     <file path="/WeeklyCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405322555779" ignored="false" />
     <file path="$USER_HOME$/workspace/KidsCare/src/main/webapp/scripts/config.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404891414994" ignored="false" />
-    <file path="/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504034915" ignored="false" />
+    <file path="/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405519938184" ignored="false" />
     <file path="C:/David/work/Development Related/jquery plugins/Angular/angular-phonecat/scripts/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404913502316" ignored="false" />
     <file path="/mysql-connection.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405326741800" ignored="false" />
     <file path="/weekly.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405221149842" ignored="false" />
     <file path="/photo.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405324937028" ignored="false" />
     <file path="/PhotoCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405410054792" ignored="false" />
     <file path="/photo.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405343864157" ignored="false" />
-    <file path="$PROJECT_DIR$/../SimpleFileServer/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504095559" ignored="false" />
+    <file path="$PROJECT_DIR$/../SimpleFileServer/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504958073" ignored="false" />
+    <file path="$PROJECT_DIR$/../SimpleFileServer/Readme.md" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504927635" ignored="false" />
+    <file path="/Readme.md" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504927635" ignored="false" />
+    <file path="/fileServer.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405518535032" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,11 +69,41 @@
       <file leaf-file-name="web-server.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="43" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.4680187">
+            <state line="380" column="38" selection-start="11266" selection-end="11266" vertical-scroll-proportion="0.53571427">
               <folding>
-                <marker date="1405503472061" expanded="true" signature="11289:11355" placeholder="..." />
-                <marker date="1405503472061" expanded="true" signature="11387:11447" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="10683:10709" placeholder="{...}" />
+                <marker date="1405519967722" expanded="true" signature="10683:10711" placeholder="{...}" />
+                <marker date="1405519967722" expanded="true" signature="10811:10867" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="10899:11004" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="11115:11148" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="11352:11441" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12014:12103" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12205:12227" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12205:12243" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12205:12261" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12205:12275" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12205:12294" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12531:12587" placeholder="..." />
+                <marker date="1405519967722" expanded="true" signature="12619:12679" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fileServer.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/fileServer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="153" selection-end="207" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="122" column="35" selection-start="3128" selection-end="3128" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,7 +111,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="42" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0">
+            <state line="11" column="50" selection-start="509" selection-end="550" vertical-scroll-proportion="24.37931">
               <folding />
             </state>
           </provider>
@@ -233,8 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/scripts/config.js" />
-        <option value="$PROJECT_DIR$/app/styles/weekly.css" />
         <option value="$PROJECT_DIR$/app/scripts/bootstrap-app.js" />
         <option value="$PROJECT_DIR$/app/views/news/weekly.html" />
         <option value="$PROJECT_DIR$/app/scripts/main.js" />
@@ -248,6 +202,8 @@
         <option value="$PROJECT_DIR$/app/styles/photo.css" />
         <option value="$PROJECT_DIR$/app/views/sub-bar.html" />
         <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/scripts/config.js" />
+        <option value="$PROJECT_DIR$/app/styles/fileServer.css" />
         <option value="$PROJECT_DIR$/web-server.js" />
       </list>
     </option>
@@ -378,8 +334,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleFileServer" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleFileServer" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -464,11 +420,11 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24857324" sideWeight="0.67085075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24857324" sideWeight="0.67085075" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -540,21 +496,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysql-connection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="57" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/jquery.fancybox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="237" selection-start="1637" selection-end="1640" vertical-scroll-proportion="0.33163264" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/fancybox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="10" selection-start="1371" selection-end="1371" vertical-scroll-proportion="-0.17857143" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/news/weekly.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="99" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0">
@@ -565,18 +506,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="34" selection-start="629" selection-end="629" vertical-scroll-proportion="0.3253012" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="34" selection-start="268" selection-end="268" vertical-scroll-proportion="0.43956044" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="42" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/PhotoCtrl.js">
@@ -631,12 +560,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="34" selection-start="268" selection-end="268" vertical-scroll-proportion="0.43956044">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="35" selection-start="3128" selection-end="3128" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="50" selection-start="509" selection-end="550" vertical-scroll-proportion="24.37931">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/fileServer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="153" selection-end="207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="43" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.4680187">
+        <state line="380" column="38" selection-start="11266" selection-end="11266" vertical-scroll-proportion="0.53571427">
           <folding>
-            <marker date="1405503472061" expanded="true" signature="11289:11355" placeholder="..." />
-            <marker date="1405503472061" expanded="true" signature="11387:11447" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="10683:10709" placeholder="{...}" />
+            <marker date="1405519967722" expanded="true" signature="10683:10711" placeholder="{...}" />
+            <marker date="1405519967722" expanded="true" signature="10811:10867" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="10899:11004" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="11115:11148" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="11352:11441" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12014:12103" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12205:12227" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12205:12243" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12205:12261" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12205:12275" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12205:12294" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12531:12587" placeholder="..." />
+            <marker date="1405519967722" expanded="true" signature="12619:12679" placeholder="..." />
           </folding>
         </state>
       </provider>

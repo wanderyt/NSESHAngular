@@ -21,7 +21,6 @@ function main(argv) {
     //创建服务器
     http.createServer(function(req,res){
         //将url地址的中的%20替换为空格，不然Node.js找不到文件
-        debugger;
         var pathname=url.parse(req.url).pathname.replace(/%20/g,' '),
             re=/(%[0-9A-Fa-f]{2}){3}/g;
         //能够正确显示中文，将三字节的字符转换为utf-8编码
@@ -368,24 +367,45 @@ function formatBody(parent,files){
     res.push("<head>");
     res.push("<meta http-equiv='Content-Type' content='text/html;charset=utf-8'></meta>")
     res.push("<title>Node.js文件服务器</title>");
+    res.push("<style>li:nth-of-type(even){background-color: #EEEEEE;}</style>");
     res.push("</head>");
     res.push("<body width='100%'>");
-    res.push("<ul>")
+    res.push("<div style='position:relative;bottom:5px;height:25px;background:gray'>");
+    res.push("<div style='margin:0 auto;font-size: 22px;height:100%;line-height:25px;text-align:left;font-weight:bold;color:#ffffff'>Directory Listing For "
+        + parent
+        + "</div>");
+    res.push("<hr>");
+    res.push("<ul style='list-style: none;padding-left:0px'>");
+    if(parent != root) {
+        //var parentURL = path.split(parent)[0];
+        console.log("path : " + path);
+        console.log("parentURL : " + path.dirname());
+        //res.push("<li style='font-family: monospace;font-size: 16px;line-height: 16px;margin: 6px 0;text-indent: 20px;'><a href='"+"/"+parentURL+"'>..</a></li>");
+    }
     files.forEach(function(val,index){
-        var stat=fs.statSync(path.join(parent,val));
-        console.log(path.basename(val));
-        var parentSplits = parent.split(root);
-        var parentPath = parentSplits[1];
-        if(stat.isDirectory(val)) {
-            val = path.basename(val) + "/";
-        } else {
-            val=path.basename(val);
+        console.log("val : " + val);
+        console.log("parent : " + parent);
+        try {
+            var stat=fs.statSync(path.join(parent,val));
+            var parentSplits = parent.split(root);
+            var parentPath = parentSplits[1];
+            if(stat.isDirectory(val)) {
+                val = path.basename(val) + "/";
+            } else {
+                val=path.basename(val);
+            }
+            if(parentPath == "") {
+                res.push("<li style='font-family: monospace;font-size: 16px;line-height: 16px;margin: 6px 0;text-indent: 20px;'><a href='"+"/"+val+"'>"+val+"</a></li>");
+            } else {
+                res.push("<li style='font-family: monospace;font-size: 16px;line-height: 16px;margin: 6px 0;text-indent: 20px;'><a href='"+"/"+parentPath+"/"+val+"'>"+val+"</a></li>");
+            }
+        } catch(e) {
+            //res.push("<li>" + e.message + "</li>");
         }
-        console.log("/"+parentPath+"/"+val);
-        res.push("<li><a href='"+"/"+parentPath+"/"+val+"'>"+val+"</a></li>");
     });
     res.push("</ul>");
-    res.push("<div style='position:relative;width:98%;bottom:5px;height:25px;background:gray'>");
+    res.push("<hr>");
+    res.push("<div style='position:relative;bottom:5px;height:25px;background:gray'>");
     res.push("<div style='margin:0 auto;height:100%;line-height:25px;text-align:center'>Powered By Node.js</div>");
     res.push("</div>")
     res.push("</body>");

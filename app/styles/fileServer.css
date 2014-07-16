@@ -1,0 +1,15 @@
+div {
+    font-size: 22px;
+}
+
+li {
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 16px;
+    padding: 2px 0;
+    text-indent: 20px;
+}
+
+li:nth-of-type(even){
+    background-color: #EEEEEE;
+}

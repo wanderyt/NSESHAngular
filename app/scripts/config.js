@@ -120,7 +120,7 @@ nsesh.constant('config', _config);
 // Configuring $routeProvider, $stateProvider
 nsesh.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
 
-    //$urlRouterProvider.otherwise('out');
+    $urlRouterProvider.otherwise('/out');
 
     $stateProvider
         .state('out', {
