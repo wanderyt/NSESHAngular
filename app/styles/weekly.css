@@ -1,0 +1,33 @@
+#contentDetail td, #contentDetail th {
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    text-overflow : ellipsis;
+    white-space: nowrap;
+    overflow : hidden;
+    text-align: center;
+    //border-left: 1px solid #000000;
+}
+
+#contentDetail th {
+    border-right: 2px dashed #888888;
+}
+
+.tTitle {
+    width: 12%;
+}
+
+.tHeader {
+    width: 10%;
+    border-left: 0px;
+}
+
+.hasSchedule {
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.tName {
+    width: 10%;
+    border-left: 0px;
+}

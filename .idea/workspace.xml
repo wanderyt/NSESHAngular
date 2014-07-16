@@ -2,72 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d89408-3120-44f5-87ab-433d94a16bfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/atri.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/nsesh_logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/ntri.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/BulletinNavCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/LAB.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/NSESHAngular.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/NavbarCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/union/addr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/info/annual.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/bootstrap-app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/bootstrap/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/bootstrap/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/news/car.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/channel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/bulletin/come.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/dataService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/dataStorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/management/doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/filters/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/info/info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/management/ins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/union/newEmp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/info/org.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/bulletin/out.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/union/photo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/sub-bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/subnav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/management/table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-mysql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/news/weekly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act3/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act3/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act3/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act3/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act3/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act3/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act4/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act4/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act4/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act4/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act1/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act1/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities/act2/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/activities/act2/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_loading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_nav_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_nav_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_n.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_nw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_se.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_sw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_shadow_w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_over.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancy_title_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancybox-x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancybox-y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/images/fancybox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/PhotoCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/WeeklyCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery.mCustomScrollbar.concat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/jquery.mCustomScrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/weekly.css" />
+      <change type="MOVED" beforePath="C:\Users\I077479\WebstormProjects\NSESHAngular\app\styles\subnav.css" afterPath="$PROJECT_DIR$/app/styles/photo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/bootstrap-app.js" afterPath="$PROJECT_DIR$/app/scripts/bootstrap-app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/config.js" afterPath="$PROJECT_DIR$/app/scripts/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/dataService.js" afterPath="$PROJECT_DIR$/app/scripts/services/dataService.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/union/photo.html" afterPath="$PROJECT_DIR$/app/views/union/photo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sub-bar.html" afterPath="$PROJECT_DIR$/app/views/sub-bar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-mysql.js" afterPath="$PROJECT_DIR$/test-mysql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-server.js" afterPath="$PROJECT_DIR$/web-server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/news/weekly.html" afterPath="$PROJECT_DIR$/app/views/news/weekly.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NSESHAngular.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404821878848" ignored="false" />
-    <file path="/index.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404813525029" ignored="false" />
+    <file path="/Dummy.txt" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405503848557" ignored="false" />
+    <file path="/index.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405430328085" ignored="false" />
     <file path="/app.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404810290649" ignored="false" />
-    <file path="/config.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404449825464" ignored="false" />
+    <file path="/config.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404914393365" ignored="false" />
     <file path="/bulletin-home.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404452717579" ignored="false" />
     <file path="$PROJECT_DIR$/../MyAngularProject/app/scripts/main.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404380666132" ignored="false" />
     <file path="/navbar.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404441543383" ignored="false" />
@@ -75,19 +97,30 @@
     <file path="/NavbarCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404381397403" ignored="false" />
     <file path="/channel.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404381426403" ignored="false" />
     <file path="/dataStorage.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404381435678" ignored="false" />
-    <file path="/dataService.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404447931331" ignored="false" />
+    <file path="/dataService.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404892447516" ignored="false" />
     <file path="/filters.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404448225538" ignored="false" />
     <file path="/home.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404450531049" ignored="false" />
     <file path="/sub-nav-bar.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404712163970" ignored="false" />
     <file path="/aa.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404712213373" ignored="false" />
-    <file path="/sub-bar.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404813407264" ignored="false" />
-    <file path="/SubNavBarCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404741126493" ignored="false" />
-    <file path="/dummy.xml" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404739136475" ignored="false" />
+    <file path="/sub-bar.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405431099107" ignored="false" />
+    <file path="/SubNavBarCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405430860174" ignored="false" />
+    <file path="/dummy.xml" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404890564905" ignored="false" />
     <file path="/annual.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404741632226" ignored="false" />
-    <file path="/weekly.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404741683675" ignored="false" />
+    <file path="/weekly.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405314835377" ignored="false" />
     <file path="/car.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404741692108" ignored="false" />
     <file path="/doc.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404741740121" ignored="false" />
-    <file path="/main.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404823705945" ignored="false" />
+    <file path="/main.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405431183144" ignored="false" />
+    <file path="/test-mysql.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404891764899" ignored="false" />
+    <file path="/WeeklyCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405322555779" ignored="false" />
+    <file path="$USER_HOME$/workspace/KidsCare/src/main/webapp/scripts/config.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404891414994" ignored="false" />
+    <file path="/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504034915" ignored="false" />
+    <file path="C:/David/work/Development Related/jquery plugins/Angular/angular-phonecat/scripts/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1404913502316" ignored="false" />
+    <file path="/mysql-connection.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405326741800" ignored="false" />
+    <file path="/weekly.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405221149842" ignored="false" />
+    <file path="/photo.html" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405324937028" ignored="false" />
+    <file path="/PhotoCtrl.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405410054792" ignored="false" />
+    <file path="/photo.css" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405343864157" ignored="false" />
+    <file path="$PROJECT_DIR$/../SimpleFileServer/web-server.js" changelist="94d89408-3120-44f5-87ab-433d94a16bfc" time="1405504095559" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,84 +140,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="web-server.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="43" selection-start="2696" selection-end="2702" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavbarCtrl.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/NavbarCtrl.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="52" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="276" column="8" selection-start="7580" selection-end="7580" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="66" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="46" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-mysql.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-mysql.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="25" selection-start="402" selection-end="402" vertical-scroll-proportion="0.52747256">
+            <state line="87" column="43" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.4680187">
               <folding>
-                <element signature="e#0#158#0" expanded="false" />
+                <marker date="1405503472061" expanded="true" signature="11289:11355" placeholder="..." />
+                <marker date="1405503472061" expanded="true" signature="11387:11447" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/navbar.css">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="32" column="42" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sub-bar.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/sub-bar.html">
+      <file leaf-file-name="photo.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/union/photo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.0">
+            <state line="9" column="49" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -193,7 +173,43 @@
       <file leaf-file-name="SubNavBarCtrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="25" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.0">
+            <state line="21" column="24" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sub-bar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sub-bar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="22" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="150" column="27" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photo.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/photo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="1" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weekly.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/news/weekly.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="99" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -217,22 +233,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/info/annual.html" />
-        <option value="$PROJECT_DIR$/app/views/news/weekly.html" />
-        <option value="$PROJECT_DIR$/app/views/news/car.html" />
-        <option value="$PROJECT_DIR$/app/views/management/ins.html" />
-        <option value="$PROJECT_DIR$/app/views/management/doc.html" />
-        <option value="$PROJECT_DIR$/app/views/management/table.html" />
-        <option value="$PROJECT_DIR$/app/views/union/doc.html" />
-        <option value="$PROJECT_DIR$/app/views/union/ins.html" />
-        <option value="$PROJECT_DIR$/app/views/union/table.html" />
         <option value="$PROJECT_DIR$/app/scripts/config.js" />
+        <option value="$PROJECT_DIR$/app/styles/weekly.css" />
+        <option value="$PROJECT_DIR$/app/scripts/bootstrap-app.js" />
+        <option value="$PROJECT_DIR$/app/views/news/weekly.html" />
         <option value="$PROJECT_DIR$/app/scripts/main.js" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/WeeklyCtrl.js" />
+        <option value="$PROJECT_DIR$/app/views/union/photo.html" />
+        <option value="$PROJECT_DIR$/mysql-connection.js" />
+        <option value="$PROJECT_DIR$/app/styles/fancybox.css" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/PhotoCtrl.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js" />
+        <option value="$PROJECT_DIR$/app/styles/photo.css" />
         <option value="$PROJECT_DIR$/app/views/sub-bar.html" />
         <option value="$PROJECT_DIR$/app/styles/main.css" />
-        <option value="$PROJECT_DIR$/test-mysql.js" />
+        <option value="$PROJECT_DIR$/web-server.js" />
       </list>
     </option>
   </component>
@@ -268,6 +284,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,116 +349,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="union" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bulletin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -464,116 +371,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NSESHAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-mysql.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleFileServer" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular" />
+      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\styles" />
+      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app" />
+      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\images" />
+      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\vendor" />
+    </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/angular-ui/ui-router.git" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\images" />
-      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\views\union" />
-      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\views\management" />
-      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\views\news" />
-      <recent name="C:\Users\I077479\WebstormProjects\NSESHAngular\app\views\info" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.test-mysql">
+  <component name="RunManager" selected="Node.js.NSESH">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -593,7 +415,9 @@
       <method />
     </configuration>
     <configuration default="false" name="NSESH" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="web-server.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.debug" />
       <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
@@ -637,11 +461,11 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984147" sideWeight="0.67085075" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24857324" sideWeight="0.67085075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -716,106 +540,103 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/union/photo.html">
+    <entry file="file://$PROJECT_DIR$/mysql-connection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0" />
+        <state line="85" column="57" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/navbar.css">
+    <entry file="file://$PROJECT_DIR$/app/vendor/jquery.fancybox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="18" column="237" selection-start="1637" selection-end="1640" vertical-scroll-proportion="0.33163264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/fancybox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="10" selection-start="1371" selection-end="1371" vertical-scroll-proportion="-0.17857143" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/news/weekly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="99" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/filters/filters.js">
+    <entry file="file://$PROJECT_DIR$/app/views/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/channel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/NavbarCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="52" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/BulletinNavCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/bootstrap-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="9" column="34" selection-start="629" selection-end="629" vertical-scroll-proportion="0.3253012" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="66" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="25" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="276" column="8" selection-start="7580" selection-end="7580" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="34" selection-start="268" selection-end="268" vertical-scroll-proportion="0.43956044" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="43" selection-start="2696" selection-end="2702" vertical-scroll-proportion="0.0">
+        <state line="32" column="42" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/PhotoCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="22" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.043763675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/union/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="49" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/weekly.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/SubNavBarCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="24" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/photo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="1" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sub-bar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/subnav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="22" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0">
+        <state line="150" column="27" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-mysql.js">
+    <entry file="file://$PROJECT_DIR$/mime.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="402" selection-end="402" vertical-scroll-proportion="0.52747256">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="43" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.4680187">
           <folding>
-            <element signature="e#0#158#0" expanded="false" />
+            <marker date="1405503472061" expanded="true" signature="11289:11355" placeholder="..." />
+            <marker date="1405503472061" expanded="true" signature="11387:11447" placeholder="..." />
           </folding>
         </state>
       </provider>

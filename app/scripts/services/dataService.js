@@ -120,5 +120,36 @@ nsesh.factory('dataService', ['$http', 'config', 'formatFilter', function($http,
         return result;
     }
 
+    /*function getWeekSchedules() {
+        var flag, results, fields;
+
+        NSESH_CONNECTION.connect();
+
+        var SQL = 'SELECT * FROM WEEKSCHEDULE';
+
+        NSESH_CONNECTION.query(SQL, function(err, results, fields) {
+            if(err) {
+                flag = false;
+                console.log(err.message);
+                throw err;
+            } else {
+                flag = true;
+                console.log(result);
+            }
+        });
+
+        NSESH_CONNECTION.end();
+
+        return {
+            flag : flag,
+            results : results,
+            fields  : fields
+        };
+    }
+
+    exports = {
+        getWeekSchedules : getWeekSchedules
+    };*/
+
     return exports;
 }]);

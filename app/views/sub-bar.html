@@ -1,5 +1,8 @@
+<div class="sub-nav-header" ng-controller="SubNavBarCtrl">
+    <span>{{category}}</span>
+</div>
 <ul class="nav nav-pills nav-stacked" ng-controller="SubNavBarCtrl">
-    <li ng-repeat="item in navItems" ng-class="{active: isActive({{item.sref}})}">
+    <li ng-repeat="item in navItems" ng-class="{active: isActive({{'\'/' + item.sref + '\''}})}">
         <a ui-sref="{{item.sref}}">{{item.name}}</a>
     </li>
 </ul>

@@ -72,7 +72,8 @@ select.ng-invalid {
 
 .navbar {
     min-height: 80px;
-    margin: 0 16%;
+    width: 1170px;
+    margin: 0 auto;
 }
 
 .navbar .navbar-header {
@@ -137,6 +138,21 @@ select.ng-invalid {
     filter: none;*/
 }
 
+.sub-nav-header {
+    height: 57px;
+    background: url('../images/title_border.gif') no-repeat 0 100%;
+    background-size: 100%;
+}
+
+.sub-nav-header span {
+    background: url('../images/title.gif') no-repeat 0 0;
+    display: block;
+    line-height: 57px;
+    text-indent: 30px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
 .subnav .nav-stacked {
     border-left: #3E63A2 2px solid;
     border-bottom: #666666 10px solid;
@@ -151,15 +167,13 @@ select.ng-invalid {
     background: url('../images/ntri.gif') no-repeat 7px 1.2em;
 }
 
-.nav-pills > li.active > a {
-    background: url('../images/atri.gif') no-repeat 7px 1.2em;
-}
-
 .nav-pills > li > a:hover,
+.nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
     background: url('../images/atri.gif') no-repeat 7px 1.2em;
     font-weight: bold;
+    color: #428bca;
 }
 
 body {
@@ -207,10 +221,32 @@ a {
 }
 
 .nav-content {
-    margin: 0 16%;
+    margin: 0 auto;
 }
 
 .subnav {
     padding-left: 0;
     padding-right: 0;
+}
+
+#contentHeader {
+    height: 57px;
+    background: url('../images/title_border.gif') no-repeat 0 100%;
+    background-size: 100%;
+    margin-right: -15px;
+
+    line-height: 50px;
+    font-size: 22px;
+    font-weight: bold;
+    text-indent: 50px;
+}
+
+#contentHeader span {
+    background: url('../images/title.gif') no-repeat 0 0;
+    background-size: 100% 50px;
+    display: block;
+}
+
+#contentDetail {
+    width: 100%;
 }

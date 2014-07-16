@@ -5,22 +5,26 @@
  * Time: 9:40 PM
  * To change this template use File | Settings | File Templates.
  */
-var Client = require('mysql').Client;
-var client = new Client();
-client.host = 'localhost';
-client.port = 3306;
-client.user = 'root';
-client.password = 'root';
-client.database='nsesh';
+var mysql      = require('mysql');
+var database   = 'nsesh';
+var connection = mysql.createConnection({
+    host     : 'localhost',
+    port     : '3306',
+    user     : 'root',
+    password : 'root',
+    database : 'nsesh'
+});
 
-query(client);
+connection.connect();
 
-function query(client){
-    client.query(
-        'select * from weekschedule',
-        function(err,res,fields){
-            console.log(res);
-            client.end();
-        }
-    );
-};
+connection.query('select * from WEEKSCHEDULE', function(err, results, fields) {
+    if(err) {
+        console.log(err.message);
+        throw err;
+    } else {
+        console.log(results[0]);
+        console.log(fields);
+    }
+})
+
+connection.end();

@@ -1,1 +1,22 @@
-<div>本周日程表</div>
+<div ng-controller="WeeklyCtrl">
+    <div id="contentHeader">
+        <span>本周日程表</span>
+    </div>
+    <div class="container" id="contentDetail">
+        <table class="table table-hover scheduleTable" align="center">
+            <thead class="scheduleHeader">
+            <tr>
+                <th align="center" class="tHeader">人员</th>
+                <th align="center" class="tTitle" colspan = 2>星期日</th>
+                <th align="center" class="tTitle" colspan = 2>星期一</th>
+                <th align="center" class="tTitle" colspan = 2>星期二</th>
+                <th align="center" class="tTitle" colspan = 2>星期三</th>
+                <th align="center" class="tTitle" colspan = 2>星期四</th>
+                <th align="center" class="tTitle" colspan = 2>星期五</th>
+                <th align="center" class="tTitle" colspan = 2>星期六</th>
+            </tr>
+            </thead>
+            <tbody class="scheduleBody"></tbody>
+        </table>
+    </div>
+</div>

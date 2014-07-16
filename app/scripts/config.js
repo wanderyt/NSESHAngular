@@ -2,6 +2,15 @@
 
 //var nsesh = angular.module('nsesh');
 
+//var MYSQL = require('mysql');
+/*var NSESH_CONNECTION = mysql.createConnection({
+    host     : 'localhost',
+    port     : '3306',
+    user     : 'root',
+    password : 'root',
+    database : 'nsesh'
+});*/
+
 function getContextPath() {
     var contextPath = '/' + window.location.pathname.split('/')[1]; // "/demo"
     return contextPath;
@@ -111,7 +120,7 @@ nsesh.constant('config', _config);
 // Configuring $routeProvider, $stateProvider
 nsesh.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
 
-    $urlRouterProvider.otherwise('out');
+    //$urlRouterProvider.otherwise('out');
 
     $stateProvider
         .state('out', {
