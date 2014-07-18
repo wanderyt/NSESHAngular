@@ -250,3 +250,15 @@ a {
 #contentDetail {
     width: 100%;
 }
+
+.navbar-config {
+    text-align: right;
+    position: absolute;
+    top: 45px;
+    right: 0;
+}
+
+.navbar-config a {
+    font-size: 14px;
+    color: #000000;
+}
