@@ -4,3 +4,7 @@
     background-color: #fff;
     display: block;
 }
+
+body {
+    overflow: hidden;
+}
