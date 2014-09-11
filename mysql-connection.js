@@ -44,7 +44,7 @@ function handleQuery(SQL, cb) {
 }
 
 function getWeekSchedules(cb) {
-    var SQL = 'SELECT * FROM WEEKSCHEDULE';
+    var SQL = 'SELECT B.NAME, A.* FROM WEEKSCHEDULE AS A INNER JOIN USER AS B ON A.USER_ID = B.ID';
     handleQuery(SQL, cb);
 }
 
