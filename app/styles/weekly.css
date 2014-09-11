@@ -6,11 +6,15 @@
     white-space: nowrap;
     overflow : hidden;
     text-align: center;
-    //border-left: 1px solid #000000;
+    overflow: hidden;
 }
 
 #contentDetail th {
     border-right: 2px dashed #888888;
+}
+
+#contentDetail table {
+    table-layout: fixed;
 }
 
 .tTitle {
