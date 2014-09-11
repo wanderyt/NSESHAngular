@@ -8,6 +8,14 @@ nsesh.filter('percentage', ['$filter', function($filter) {
     return exports;
 }]);
 
+admin.filter('percentage', ['$filter', function($filter) {
+    var exports = function(input) {
+        return $filter('number')(input * 100, 1) + '%';
+    };
+
+    return exports;
+}]);
+
 
 /**
 format string can be composed of the following elements:
@@ -60,6 +68,22 @@ nsesh.filter('time', ['$filter', function($filter) {
     }
 }]);
 
+admin.filter('time', ['$filter', function($filter) {
+    try {
+        var exports = function(input, format) {
+            var utcTime = new Date(input);
+            var timezoneOffset = utcTime.getTimezoneOffset() * 60 * 1000;
+            var localeTime = new Date(utcTime.getTime() + timezoneOffset);
+
+            return $filter('date')(localeTime, format);
+        };
+
+        return exports;
+    } catch (e) {
+        console.log(e);
+    }
+}]);
+
 /**
  * A replacement utility for internationalization.
  *
@@ -74,6 +98,29 @@ nsesh.filter('time', ['$filter', function($filter) {
  * @example: '{0} agrees to all mentions {0} makes in the event that {0} hits a tree while {0} is driving drunk'.format('Bob')
  */
 nsesh.filter('format', function() {
+    return function(value, replace) {
+        var target = value;
+
+        if (angular.isString(target) && replace !== undefined) {
+            if (!angular.isArray(replace) && !angular.isObject(replace)) {
+                replace = [replace];
+            }
+
+            var placeholder = /\{([^\}]+)\}/g; // {key}
+            target = target.replace(placeholder, function(str, key) {
+                var result = str;
+                if (key in replace) {
+                    result = replace[key];
+                }
+                return result;
+            });
+        }
+
+        return target;
+    };
+});
+
+admin.filter('format', function() {
     return function(value, replace) {
         var target = value;
 
