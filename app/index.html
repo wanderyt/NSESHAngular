@@ -2,7 +2,8 @@
 <html ng-app="nsesh">
 <head>
     <meta charset="utf-8">
-    <title>My First Angular Project</title>
+    <meta charset="utf-8">
+    <title>{{'NSESH' | translate}}</title>
     <link rel="stylesheet" href="styles/normalize.css"/>
     <link rel="stylesheet" href="styles/base.css"/>
     <link rel="stylesheet" href="styles/bootstrap/bootstrap.min.css"/>
@@ -18,7 +19,7 @@
     <script type="text/javascript" src="vendor/modernizr.js"></script>
     <script type="text/javascript" src="vendor/LAB.src.js"></script>
     <script type="text/javascript" src="scripts/bootstrap-app.js"></script>
-    <script type="text/javascript" src="scripts/main.js"></script>
+    <script type="text/javascript" src="scripts/main-app.js"></script>
 </head>
 <body>
     <!--[if lt IE 8]>
@@ -33,17 +34,24 @@
                             <a href="#/out"><image class="col-xs-4 logo-header" src="./images/nsesh_logo.gif"></image></a>
                         </div>
                         <div class="navbar-config col-xs-4 col-md-4">
-                            <a href="http://localhost:8003">公司文件服务器</a>
+                            <div class="navbar-fs">
+                                <a href="http://localhost:8003">公司文件服务器</a>
+                            </div>
+                            <div class="navbar-admin">
+                                <a href="http://localhost:8000/app/admin-login.html">
+                                    <span>Admin</span><img src="./images/settings_gray.png" alt="Admin"/>
+                                </a>
+                            </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="collapse navbar-collapse" ng-cloak>
                             <ul class="nav navbar-nav">
-                                <li ng-class="{active: isActive('/out') || isActive('/come')}"><a ui-sref="out">公告栏</a></li>
-                                <li ng-class="{active: isActive('/info') || isActive('/org') || isActive('/annual')}"><a ui-sref="info">公司简介</a></li>
-                                <li ng-class="{active: isActive('/weekly') || isActive('/car')}"><a ui-sref="weekly">公司动态</a></li>
-                                <li ng-class="{active: isActive('/ins') || isActive('/doc') || isActive('/table')}"><a ui-sref="ins">管理中心</a></li>
-                                <li ng-class="{active: isActive('/newEmp') || isActive('/addr') || isActive('/photo')}"><a ui-sref="newEmp">员工工会</a></li>
+                                <li ng-class="{active: isActive('/out') || isActive('/come')}"><a ui-sref="out">{{'BULLETIN' | translate}}</a></li>
+                                <li ng-class="{active: isActive('/info') || isActive('/org') || isActive('/annual')}"><a ui-sref="info">{{'INFO' | translate}}</a></li>
+                                <li ng-class="{active: isActive('/weekly') || isActive('/car')}"><a ui-sref="weekly">{{'NEWS' | translate}}</a></li>
+                                <li ng-class="{active: isActive('/ins') || isActive('/doc') || isActive('/table')}"><a ui-sref="ins">{{'MANAGEMENT' | translate}}</a></li>
+                                <li ng-class="{active: isActive('/newEmp') || isActive('/addr') || isActive('/photo')}"><a ui-sref="newEmp">{{'UNION' | translate}}</a></li>
                             </ul>
                         </div>
                     </div>
